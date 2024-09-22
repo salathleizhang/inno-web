@@ -301,11 +301,11 @@ type TeamProps = Widget & {
   teams: Array<Team>;
 };
 
-type AnnouncementProps = {
-  title: string;
-  callToAction?: CallToActionType;
-  callToAction2?: CallToActionType;
-};
+// type AnnouncementProps = {
+//   title: string;
+//   callToAction?: CallToActionType;
+//   callToAction2?: CallToActionType;
+// };
 
 type TestimonialsProps = Widget & {
   header?: Header;
