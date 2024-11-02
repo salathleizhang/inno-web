@@ -206,7 +206,7 @@ export const contentHomeTwo: ContentProps = {
       title: 
           '業務に無駄が多く、余計な時 間がかかってしまっている',
       description: 
-          'ングをもとに、最適な ソリューションを提案',
+          'データ分析やプロセスマッピングをもとに、最適なソリューションを提案',
     },
     {
       title: 
