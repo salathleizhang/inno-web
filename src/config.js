@@ -1,10 +1,10 @@
 module.exports.SITE = {
-  name: 'Innoshere',
+  name: 'InnoSphere',
 
   origin: 'https://tailnext.vercel.app',
   basePathname: '/',
   trailingSlash: false,
 
-  title: '-',
+  title: 'InnoSphere',
   description: '-',
 };
