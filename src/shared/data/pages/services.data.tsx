@@ -274,9 +274,9 @@ export const faqsServices: FAQsProps = {
 export const callToActionServices: CallToActionProps = {
   id: 'callToAction-on-services',
   hasBackground: false,
-  title: '私たちに連絡したいですか?',
+  title: 'CONTACT',
   subtitle:
-    '「お問い合わせ」をクリックして連絡先情報を残してください',
+    'AIに関することについてお気軽にご相談ください',
   callToAction: {
     text: 'お問い合わせ',
     href: 'https://c8d55k5ow1a.typeform.com/to/ieJWgvhu?typeform-source=localhost',
