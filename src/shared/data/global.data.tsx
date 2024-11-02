@@ -236,7 +236,7 @@ export const footerData2: FooterProps = {
   columns: [
     {
       title: 'InnoSphere',
-      texts: ['〒141-0022', '東京都品川区東五反田' , '5-22-5-201B号'],
+      texts: ['〒141-0022', '東京都品川区東五反田' , '5−22−５ー210B号'],
     },
     {
       title: 'Product',
